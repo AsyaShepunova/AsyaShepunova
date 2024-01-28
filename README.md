@@ -1,4 +1,3 @@
 👋 Hi, I’m Asya Shepunova. 
 For the last 7 years, I’ve been passionate about advancing data science and technology.
-After working as an event manager for data science meetups at Yandex in Moscow, I realized I want to do data science myself. 
-I took an 8-month break to retool and moved to Silicon Valley to find my dream job in data science and analytics.
+After working in science communication and running tech events, where I combined a love for tech with a deep dive into machine learning, I have shifted focus to data science, fine-tuning my machine learning skills through practical projects and studying statistics and probability to build a theoretical foundation.
